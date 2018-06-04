@@ -43,6 +43,11 @@ query LayoutQuery {
       desc
     }
   }
+  background: imageSharp(id: {regex: "/bg.jpeg/"}) {
+    sizes(maxWidth: 1240) {
+      ...GatsbyImageSharpSizes
+    }
+  }
 }
 `;
 
