@@ -11,6 +11,7 @@
     "gatsby-plugin-sharp": "^1.6.46",
     "gatsby-plugin-styled-components": "^2.0.11",
     "gatsby-source-filesystem": "^1.5.38",
+    "gatsby-transformer-remark": "^1.7.41",
     "gatsby-transformer-sharp": "^1.6.26",
     "react-helmet": "^5.2.0",
     "styled-components": "^3.3.0"
@@ -26,7 +27,9 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "devDependencies": {
-    "prettier": "^1.12.0"
+    "friendly-errors-webpack-plugin": "^1.7.0",
+    "prettier": "^1.12.0",
+    "webpack-dev-server": "^1.9.0"
   },
   "repository": {
     "type": "git",
