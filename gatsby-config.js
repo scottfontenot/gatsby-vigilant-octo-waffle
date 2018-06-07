@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
-    title: 'Scott Fontenot',
-    desc: 'My coding journey',
+    title: 'Welcome to the blog',
+    desc: 'Musing on the coding journey from a mid-career civil servant',
   },
   plugins: [
     'gatsby-plugin-react-helmet', 
@@ -20,7 +20,13 @@ module.exports = {
       path: `${__dirname}/src/images`
     }
   },
-  "gatsby-transformer-remark",
+  {
+    resolve: "gatsby-transformer-remark",
+    options: {
+      excerpt_separator: `<!-- end -->`
+    }
+  },
+  
   "gatsby-transformer-sharp",
   "gatsby-plugin-sharp"
 ]
