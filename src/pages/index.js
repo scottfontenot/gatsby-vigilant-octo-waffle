@@ -32,6 +32,9 @@ query SiteMeta {
             title
             date(formatString: "MMMM DD YYYY")
         }
+        fields {
+          slug
+        }
         html
         excerpt
       }
