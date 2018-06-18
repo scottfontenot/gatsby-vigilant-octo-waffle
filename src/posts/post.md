@@ -10,7 +10,5 @@ whatever Banksy blog kitsch sustainable post-ironic synth fashion axe iPhone gas
 * A
 
 
-XOXO raw denim trust fund freegan lomo chambray swag keffiyeh forage 3 wolf moon Odd Future lo-fi small batch heirloom craft beer typewriter bespoke meggings Tumblr pork belly directKickstarter trade disrupt farm-to-table butcher plaid vinyl ethical put a bird on it before they sold out gluten-free quinoa skateboard tofu umami tattooed twee you probably haven't heard of them photo booth locavore next level
 
-* New
-* Post
+
