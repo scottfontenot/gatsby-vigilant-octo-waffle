@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: 'Welcome to the blog',
+    title: 'Scott Fontenot - Blog',
     desc: 'Musing on the coding journey from a mid-career civil servant',
   },
   plugins: [
