@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import ReactDOM from 'react-dom';
 import Link from 'gatsby-link';
-import logo from '../images/skulls_26.svg';
+import logo from '../images/scottselfie.jpg';
 import styled from 'styled-components';
 import Img from 'gatsby-image';
 
@@ -93,7 +93,8 @@ export default class Header extends Component {
               textDecoration: 'none',
             }}
           >
-         <img src={logo} alt="skull"/>
+          <h1>Scott Fontenot</h1>
+         {/*<img src={logo} alt="scott fontenot"/>*/}
         </Link>
       </h1>
       {/*<p>{data.site.siteMetadata.title}</p>

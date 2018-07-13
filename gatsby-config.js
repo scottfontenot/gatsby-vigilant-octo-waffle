@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
     title: 'Scott Fontenot - Blog',
-    desc: 'Musing on the coding journey from a mid-career civil servant',
+    desc: 'Musing from a mid-career civil servant',
   },
   plugins: [
     'gatsby-plugin-react-helmet', 
